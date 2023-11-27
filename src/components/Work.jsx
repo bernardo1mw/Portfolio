@@ -15,6 +15,7 @@ const Work = forwardRef((props, ref) => {
 					<p className='text-4xl font-bold inline border-b-4 text-gray-300 border-pink-600'>
 						Work
 					</p>
+					{/* eslint-disable-next-line react/jsx-no-comment-textnodes */}
 					<p className='py-6'>// Check out some of my recent work</p>
 				</div>
 
