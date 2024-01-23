@@ -1,6 +1,8 @@
 # Portfolio Site Project
 
-This project is a personal portfolio website showcasing my skills, projects, and experiences in the field of technology.
+This project is a personal portfolio website showcasing my skills, projects, and experiences in the field of technology. 
+
+Check it out: https://bernardo1mw.github.io/Portfolio/
 
 ## Table of Contents
 
